@@ -1,0 +1,16 @@
+CÓDIGO DO CANDIDATO: CAND_003
+CIDADE: Curitiba, PR (dados pessoais omitidos conforme boas práticas de LGPD)
+
+FORMAÇÃO ACADÊMICA
+- Bacharelado em Administração (2º período — Turno Noturno, conclusão prevista: 2029)
+
+EXPERIÊNCIA
+- Auxiliar de Atendimento e Rotinas Administrativas — Escritório Contábil (8 meses)
+  Atendimento ao público por telefone e e-mail, organização de documentos digitais e preenchimento de planilhas de controle no Excel (uso frequente de PROCV e tabelas dinâmicas simples).
+
+HABILIDADES
+- Pacote Office intermediário (Excel com PROCV e tabelas dinâmicas, Word, PowerPoint)
+- Facilidade de comunicação e organização de processos administrativos
+- Estudando Power BI por conta própria (curso introdutório em andamento)
+- Sem experiência prévia com SQL ou Python
+- Inglês básico

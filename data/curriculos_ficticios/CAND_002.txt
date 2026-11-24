@@ -1,0 +1,16 @@
+CÓDIGO DO CANDIDATO: CAND_002
+CIDADE: São José dos Pinhais, PR (dados pessoais omitidos conforme boas práticas de LGPD)
+
+FORMAÇÃO ACADÊMICA
+- Bacharelado em Ciência da Computação (4º período — Turno Matutino: aulas das 07h30 às 12h00, conclusão prevista: 2028)
+
+EXPERIÊNCIA E PROJETOS ACADÊMICOS
+- Monitor Acadêmico de Banco de Dados (6 meses)
+  Apoio aos alunos em modelagem relacional, consultas SQL e automações simples em Python.
+- Projeto de Iniciação Científica com análise exploratória de dados em Python (Pandas) e dashboards no Power BI.
+
+HABILIDADES
+- Excel intermediário (fórmulas, filtros e tabelas dinâmicas)
+- Power BI intermediário e SQL avançado
+- Python intermediário e noções de Power Automate
+- Inglês avançado

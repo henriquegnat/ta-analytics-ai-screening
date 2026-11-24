@@ -1,0 +1,9 @@
+# Variáveis de ambiente e chaves de API (NUNCA subir para o GitHub)
+.env
+
+# Cache do Python e configurações locais do editor
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/

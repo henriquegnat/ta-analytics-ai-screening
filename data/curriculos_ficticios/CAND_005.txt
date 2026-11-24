@@ -1,0 +1,16 @@
+CÓDIGO DO CANDIDATO: CAND_005
+CIDADE: Curitiba, PR (dados pessoais omitidos conforme boas práticas de LGPD)
+
+FORMAÇÃO ACADÊMICA
+- Bacharelado em Engenharia de Software (2º período — Turno Noturno, conclusão prevista: 2029)
+- Técnico em Desenvolvimento de Sistemas concluído
+
+PROJETOS E EXPERIÊNCIA
+- Projetos pessoais no GitHub utilizando Python (automação de arquivos e consumo de APIs REST) e banco de dados MySQL.
+- Trabalho voluntário na organização de eventos estudantis e controle de inscrições em planilhas compartilhadas.
+
+HABILIDADES
+- Python intermediário, SQL intermediário/avançado, Git/GitHub
+- Excel intermediário (organização de tabelas, fórmulas de busca e tabelas dinâmicas básicas)
+- Noções iniciais de Power BI e familiaridade prática com IA generativa (ChatGPT e Gemini)
+- Inglês intermediário

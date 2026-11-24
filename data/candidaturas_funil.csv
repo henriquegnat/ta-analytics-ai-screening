@@ -1,0 +1,241 @@
+﻿id_candidatura,vaga,area,origem_candidato,data_inscricao,data_fechamento,dias_processo,ordem_etapa_maxima,ultima_etapa,status_final
+CAND-0001,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-09-30,2026-10-09,9,1,1. Inscritos,Reprovado
+CAND-0002,Estágio em Talent Acquisition,Recursos Humanos,Gupy / Job Boards,2026-06-25,2026-07-12,17,2,2. Triagem Curricular,Reprovado
+CAND-0003,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-09-28,2026-09-30,2,1,1. Inscritos,Banco de Talentos
+CAND-0004,Analista de Qualidade & Processos Jr,Operações & Engenharia,Gupy / Job Boards,2026-06-26,2026-07-03,7,1,1. Inscritos,Reprovado
+CAND-0005,Estágio em Dados & BI,Tecnologia,Gupy / Job Boards,2026-08-03,2026-08-21,18,2,2. Triagem Curricular,Reprovado
+CAND-0006,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-08-11,2026-08-19,8,3,3. Entrevista RH,Reprovado
+CAND-0007,Estágio em Projetos & Digital,Projetos & Digital,Indicação Interna,2026-06-26,2026-07-21,25,4,4. Entrevista Gestor,Reprovado
+CAND-0008,Estágio em Dados & BI,Tecnologia,Indicação Interna,2026-07-31,2026-08-19,19,2,2. Triagem Curricular,Reprovado
+CAND-0009,Estágio em Dados & BI,Tecnologia,Indicação Interna,2026-07-13,2026-07-29,16,5,5. Contratados,Contratado
+CAND-0010,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-08-07,2026-08-16,9,1,1. Inscritos,Desistência
+CAND-0011,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-10-03,2026-10-16,13,2,2. Triagem Curricular,Reprovado
+CAND-0012,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-10-17,2026-11-02,16,3,3. Entrevista RH,Reprovado
+CAND-0013,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-10-01,2026-10-11,10,1,1. Inscritos,Reprovado
+CAND-0014,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-06-21,2026-06-24,3,1,1. Inscritos,Banco de Talentos
+CAND-0015,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-07-31,2026-08-11,11,2,2. Triagem Curricular,Reprovado
+CAND-0016,Estágio em Dados & BI,Tecnologia,Portal de Carreiras,2026-06-21,2026-07-05,14,2,2. Triagem Curricular,Reprovado
+CAND-0017,Estágio em Talent Acquisition,Recursos Humanos,Feira Universitária,2026-08-20,2026-08-28,8,1,1. Inscritos,Reprovado
+CAND-0018,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-08-16,2026-08-22,6,2,2. Triagem Curricular,Reprovado
+CAND-0019,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-06-26,2026-07-08,12,3,3. Entrevista RH,Reprovado
+CAND-0020,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-06-18,2026-07-07,19,4,4. Entrevista Gestor,Banco de Talentos
+CAND-0021,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-10-18,2026-10-22,4,2,2. Triagem Curricular,Banco de Talentos
+CAND-0022,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-08-16,2026-08-25,9,3,3. Entrevista RH,Desistência
+CAND-0023,Estágio em Talent Acquisition,Recursos Humanos,Feira Universitária,2026-08-07,2026-08-10,3,1,1. Inscritos,Reprovado
+CAND-0024,Estágio em Talent Acquisition,Recursos Humanos,Gupy / Job Boards,2026-08-09,2026-08-19,10,2,2. Triagem Curricular,Reprovado
+CAND-0025,Estágio em Talent Acquisition,Recursos Humanos,Gupy / Job Boards,2026-08-07,2026-08-19,12,2,2. Triagem Curricular,Reprovado
+CAND-0026,Estágio em Dados & BI,Tecnologia,Indicação Interna,2026-09-17,2026-10-01,14,5,5. Contratados,Contratado
+CAND-0027,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-07-04,2026-07-10,6,1,1. Inscritos,Reprovado
+CAND-0028,Desenvolvedor Backend Pleno,Tecnologia,Indicação Interna,2026-09-18,2026-10-26,38,5,5. Contratados,Contratado
+CAND-0029,Estágio em Dados & BI,Tecnologia,Indicação Interna,2026-07-09,2026-07-28,19,4,4. Entrevista Gestor,Reprovado
+CAND-0030,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-09-19,2026-10-02,13,2,2. Triagem Curricular,Reprovado
+CAND-0031,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-08-31,2026-09-11,11,2,2. Triagem Curricular,Reprovado
+CAND-0032,Analista de Suporte de TI Jr,Tecnologia,Gupy / Job Boards,2026-09-13,2026-09-17,4,1,1. Inscritos,Desistência
+CAND-0033,Estágio em Talent Acquisition,Recursos Humanos,Feira Universitária,2026-07-12,2026-07-16,4,1,1. Inscritos,Desistência
+CAND-0034,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-08-25,2026-09-26,32,5,5. Contratados,Contratado
+CAND-0035,Analista de Qualidade & Processos Jr,Operações & Engenharia,Gupy / Job Boards,2026-08-03,2026-08-06,3,1,1. Inscritos,Reprovado
+CAND-0036,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-07-27,2026-08-26,30,5,5. Contratados,Contratado
+CAND-0037,Desenvolvedor Backend Pleno,Tecnologia,Gupy / Job Boards,2026-08-29,2026-09-03,5,1,1. Inscritos,Reprovado
+CAND-0038,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-07-20,2026-07-26,6,1,1. Inscritos,Reprovado
+CAND-0039,Analista de Suporte de TI Jr,Tecnologia,Feira Universitária,2026-08-29,2026-09-18,20,4,4. Entrevista Gestor,Reprovado
+CAND-0040,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-08-24,2026-08-31,7,2,2. Triagem Curricular,Desistência
+CAND-0041,Analista de Suporte de TI Jr,Tecnologia,Indicação Interna,2026-07-16,2026-07-28,12,2,2. Triagem Curricular,Reprovado
+CAND-0042,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-09-20,2026-09-27,7,1,1. Inscritos,Reprovado
+CAND-0043,Estágio em Dados & BI,Tecnologia,Feira Universitária,2026-09-07,2026-09-21,14,4,4. Entrevista Gestor,Desistência
+CAND-0044,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-09-20,2026-09-30,10,1,1. Inscritos,Reprovado
+CAND-0045,Analista de Qualidade & Processos Jr,Operações & Engenharia,Gupy / Job Boards,2026-07-21,2026-07-24,3,1,1. Inscritos,Reprovado
+CAND-0046,Estágio em Projetos & Digital,Projetos & Digital,Feira Universitária,2026-08-20,2026-08-31,11,4,4. Entrevista Gestor,Reprovado
+CAND-0047,Analista de Suporte de TI Jr,Tecnologia,Gupy / Job Boards,2026-10-08,2026-10-16,8,1,1. Inscritos,Reprovado
+CAND-0048,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-08-15,2026-08-20,5,1,1. Inscritos,Reprovado
+CAND-0049,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-07-15,2026-07-21,6,1,1. Inscritos,Reprovado
+CAND-0050,Estágio em Dados & BI,Tecnologia,Portal de Carreiras,2026-08-17,2026-09-05,19,3,3. Entrevista RH,Reprovado
+CAND-0051,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-08-22,2026-09-09,18,2,2. Triagem Curricular,Reprovado
+CAND-0052,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-09-30,2026-10-04,4,1,1. Inscritos,Banco de Talentos
+CAND-0053,Analista de Suporte de TI Jr,Tecnologia,Gupy / Job Boards,2026-10-10,2026-10-21,11,1,1. Inscritos,Reprovado
+CAND-0054,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-08-19,2026-08-29,10,2,2. Triagem Curricular,Reprovado
+CAND-0055,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-08-02,2026-08-13,11,1,1. Inscritos,Desistência
+CAND-0056,Estágio em Dados & BI,Tecnologia,Indicação Interna,2026-09-25,2026-10-07,12,1,1. Inscritos,Reprovado
+CAND-0057,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-09-07,2026-09-12,5,1,1. Inscritos,Reprovado
+CAND-0058,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-06-02,2026-06-05,3,1,1. Inscritos,Desistência
+CAND-0059,Estágio em Talent Acquisition,Recursos Humanos,Gupy / Job Boards,2026-07-16,2026-08-03,18,2,2. Triagem Curricular,Banco de Talentos
+CAND-0060,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-07-02,2026-07-20,18,2,2. Triagem Curricular,Reprovado
+CAND-0061,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-08-21,2026-09-08,18,2,2. Triagem Curricular,Desistência
+CAND-0062,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-10-08,2026-10-31,23,3,3. Entrevista RH,Reprovado
+CAND-0063,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-09-30,2026-10-05,5,1,1. Inscritos,Reprovado
+CAND-0064,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-10-03,2026-10-19,16,4,4. Entrevista Gestor,Reprovado
+CAND-0065,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-08-13,2026-08-20,7,1,1. Inscritos,Reprovado
+CAND-0066,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-06-21,2026-07-02,11,2,2. Triagem Curricular,Reprovado
+CAND-0067,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-06-17,2026-07-07,20,5,5. Contratados,Contratado
+CAND-0068,Estágio em Projetos & Digital,Projetos & Digital,Portal de Carreiras,2026-09-28,2026-10-03,5,1,1. Inscritos,Reprovado
+CAND-0069,Desenvolvedor Backend Pleno,Tecnologia,Indicação Interna,2026-06-06,2026-06-17,11,1,1. Inscritos,Banco de Talentos
+CAND-0070,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-08-30,2026-09-15,16,2,2. Triagem Curricular,Reprovado
+CAND-0071,Desenvolvedor Backend Pleno,Tecnologia,Indicação Interna,2026-10-16,2026-10-27,11,2,2. Triagem Curricular,Banco de Talentos
+CAND-0072,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-09-20,2026-09-28,8,1,1. Inscritos,Reprovado
+CAND-0073,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-09-12,2026-09-30,18,2,2. Triagem Curricular,Banco de Talentos
+CAND-0074,Estágio em Projetos & Digital,Projetos & Digital,Indicação Interna,2026-10-15,2026-11-02,18,3,3. Entrevista RH,Reprovado
+CAND-0075,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-06-07,2026-06-15,8,1,1. Inscritos,Reprovado
+CAND-0076,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-07-17,2026-07-25,8,1,1. Inscritos,Reprovado
+CAND-0077,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-08-23,2026-08-31,8,1,1. Inscritos,Reprovado
+CAND-0078,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-08-04,2026-08-13,9,1,1. Inscritos,Banco de Talentos
+CAND-0079,Estágio em Projetos & Digital,Projetos & Digital,Indicação Interna,2026-06-14,2026-07-01,17,5,5. Contratados,Contratado
+CAND-0080,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-06-11,2026-06-16,5,1,1. Inscritos,Banco de Talentos
+CAND-0081,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-07-10,2026-07-19,9,1,1. Inscritos,Reprovado
+CAND-0082,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-07-26,2026-08-01,6,1,1. Inscritos,Reprovado
+CAND-0083,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-06-30,2026-07-13,13,4,4. Entrevista Gestor,Banco de Talentos
+CAND-0084,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-08-19,2026-09-08,20,4,4. Entrevista Gestor,Reprovado
+CAND-0085,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-07-21,2026-08-16,26,3,3. Entrevista RH,Reprovado
+CAND-0086,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-08-17,2026-08-28,11,1,1. Inscritos,Banco de Talentos
+CAND-0087,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-06-11,2026-06-28,17,2,2. Triagem Curricular,Reprovado
+CAND-0088,Estágio em Dados & BI,Tecnologia,Gupy / Job Boards,2026-10-08,2026-10-14,6,3,3. Entrevista RH,Reprovado
+CAND-0089,Desenvolvedor Backend Pleno,Tecnologia,Indicação Interna,2026-06-28,2026-07-05,7,1,1. Inscritos,Reprovado
+CAND-0090,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-07-10,2026-07-20,10,1,1. Inscritos,Reprovado
+CAND-0091,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-10-02,2026-11-02,31,4,4. Entrevista Gestor,Reprovado
+CAND-0092,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-08-02,2026-08-08,6,2,2. Triagem Curricular,Banco de Talentos
+CAND-0093,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-08-02,2026-08-18,16,2,2. Triagem Curricular,Banco de Talentos
+CAND-0094,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-08-23,2026-09-04,12,3,3. Entrevista RH,Reprovado
+CAND-0095,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-08-27,2026-09-08,12,2,2. Triagem Curricular,Reprovado
+CAND-0096,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-06-22,2026-07-13,21,4,4. Entrevista Gestor,Reprovado
+CAND-0097,Analista de Qualidade & Processos Jr,Operações & Engenharia,Gupy / Job Boards,2026-09-30,2026-11-06,37,5,5. Contratados,Contratado
+CAND-0098,Estágio em Dados & BI,Tecnologia,Portal de Carreiras,2026-06-24,2026-07-02,8,1,1. Inscritos,Reprovado
+CAND-0099,Analista de Suporte de TI Jr,Tecnologia,Gupy / Job Boards,2026-09-03,2026-09-18,15,2,2. Triagem Curricular,Reprovado
+CAND-0100,Analista de Suporte de TI Jr,Tecnologia,Gupy / Job Boards,2026-08-30,2026-09-15,16,4,4. Entrevista Gestor,Banco de Talentos
+CAND-0101,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-07-01,2026-07-08,7,1,1. Inscritos,Banco de Talentos
+CAND-0102,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-07-18,2026-07-27,9,1,1. Inscritos,Reprovado
+CAND-0103,Estágio em Projetos & Digital,Projetos & Digital,Indicação Interna,2026-10-13,2026-11-03,21,5,5. Contratados,Contratado
+CAND-0104,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-07-20,2026-08-06,17,3,3. Entrevista RH,Reprovado
+CAND-0105,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-10-15,2026-10-17,2,1,1. Inscritos,Reprovado
+CAND-0106,Estágio em Projetos & Digital,Projetos & Digital,Feira Universitária,2026-08-14,2026-08-22,8,2,2. Triagem Curricular,Banco de Talentos
+CAND-0107,Estágio em Dados & BI,Tecnologia,Gupy / Job Boards,2026-06-04,2026-06-27,23,4,4. Entrevista Gestor,Reprovado
+CAND-0108,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-07-18,2026-07-30,12,2,2. Triagem Curricular,Desistência
+CAND-0109,Desenvolvedor Backend Pleno,Tecnologia,Feira Universitária,2026-06-30,2026-07-18,18,3,3. Entrevista RH,Banco de Talentos
+CAND-0110,Estágio em Projetos & Digital,Projetos & Digital,Portal de Carreiras,2026-06-14,2026-06-27,13,2,2. Triagem Curricular,Reprovado
+CAND-0111,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-07-01,2026-07-09,8,1,1. Inscritos,Reprovado
+CAND-0112,Estágio em Projetos & Digital,Projetos & Digital,Portal de Carreiras,2026-07-28,2026-08-13,16,2,2. Triagem Curricular,Banco de Talentos
+CAND-0113,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-08-16,2026-09-02,17,2,2. Triagem Curricular,Banco de Talentos
+CAND-0114,Estágio em Projetos & Digital,Projetos & Digital,Portal de Carreiras,2026-06-26,2026-07-10,14,4,4. Entrevista Gestor,Desistência
+CAND-0115,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-06-21,2026-07-02,11,3,3. Entrevista RH,Reprovado
+CAND-0116,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-06-01,2026-06-26,25,3,3. Entrevista RH,Reprovado
+CAND-0117,Estágio em Dados & BI,Tecnologia,Portal de Carreiras,2026-07-30,2026-08-12,13,2,2. Triagem Curricular,Reprovado
+CAND-0118,Desenvolvedor Backend Pleno,Tecnologia,Gupy / Job Boards,2026-06-19,2026-06-25,6,1,1. Inscritos,Banco de Talentos
+CAND-0119,Analista de Qualidade & Processos Jr,Operações & Engenharia,Gupy / Job Boards,2026-07-21,2026-08-13,23,3,3. Entrevista RH,Reprovado
+CAND-0120,Estágio em Talent Acquisition,Recursos Humanos,Indicação Interna,2026-08-08,2026-09-01,24,5,5. Contratados,Contratado
+CAND-0121,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-07-13,2026-07-24,11,1,1. Inscritos,Banco de Talentos
+CAND-0122,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-08-13,2026-08-22,9,1,1. Inscritos,Reprovado
+CAND-0123,Analista de Qualidade & Processos Jr,Operações & Engenharia,Gupy / Job Boards,2026-09-12,2026-10-01,19,2,2. Triagem Curricular,Desistência
+CAND-0124,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-08-22,2026-08-30,8,4,4. Entrevista Gestor,Reprovado
+CAND-0125,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-06-06,2026-06-18,12,2,2. Triagem Curricular,Desistência
+CAND-0126,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-09-29,2026-10-19,20,3,3. Entrevista RH,Reprovado
+CAND-0127,Estágio em Talent Acquisition,Recursos Humanos,Indicação Interna,2026-09-20,2026-09-29,9,1,1. Inscritos,Reprovado
+CAND-0128,Desenvolvedor Backend Pleno,Tecnologia,Feira Universitária,2026-08-29,2026-09-12,14,2,2. Triagem Curricular,Reprovado
+CAND-0129,Estágio em Talent Acquisition,Recursos Humanos,Gupy / Job Boards,2026-08-24,2026-09-02,9,1,1. Inscritos,Reprovado
+CAND-0130,Estágio em Projetos & Digital,Projetos & Digital,Feira Universitária,2026-06-10,2026-07-01,21,5,5. Contratados,Contratado
+CAND-0131,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-08-22,2026-09-09,18,3,3. Entrevista RH,Reprovado
+CAND-0132,Estágio em Dados & BI,Tecnologia,Indicação Interna,2026-10-17,2026-10-19,2,1,1. Inscritos,Reprovado
+CAND-0133,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-10-06,2026-10-13,7,3,3. Entrevista RH,Reprovado
+CAND-0134,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-07-04,2026-07-13,9,1,1. Inscritos,Desistência
+CAND-0135,Desenvolvedor Backend Pleno,Tecnologia,Indicação Interna,2026-07-02,2026-07-13,11,2,2. Triagem Curricular,Reprovado
+CAND-0136,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-09-13,2026-09-24,11,4,4. Entrevista Gestor,Reprovado
+CAND-0137,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-10-06,2026-10-23,17,4,4. Entrevista Gestor,Desistência
+CAND-0138,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-09-15,2026-09-24,9,1,1. Inscritos,Banco de Talentos
+CAND-0139,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-07-08,2026-07-19,11,1,1. Inscritos,Reprovado
+CAND-0140,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-06-18,2026-07-05,17,2,2. Triagem Curricular,Reprovado
+CAND-0141,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-08-08,2026-08-14,6,1,1. Inscritos,Banco de Talentos
+CAND-0142,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-10-04,2026-10-13,9,1,1. Inscritos,Banco de Talentos
+CAND-0143,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-10-18,2026-11-08,21,5,5. Contratados,Contratado
+CAND-0144,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-07-19,2026-08-01,13,3,3. Entrevista RH,Desistência
+CAND-0145,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-09-14,2026-09-23,9,1,1. Inscritos,Reprovado
+CAND-0146,Desenvolvedor Backend Pleno,Tecnologia,Gupy / Job Boards,2026-09-07,2026-09-19,12,1,1. Inscritos,Desistência
+CAND-0147,Estágio em Dados & BI,Tecnologia,Portal de Carreiras,2026-07-03,2026-07-29,26,4,4. Entrevista Gestor,Reprovado
+CAND-0148,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-09-21,2026-10-09,18,2,2. Triagem Curricular,Reprovado
+CAND-0149,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-09-13,2026-09-17,4,1,1. Inscritos,Banco de Talentos
+CAND-0150,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-08-26,2026-09-13,18,3,3. Entrevista RH,Reprovado
+CAND-0151,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-10-15,2026-10-29,14,2,2. Triagem Curricular,Reprovado
+CAND-0152,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-10-17,2026-10-25,8,3,3. Entrevista RH,Reprovado
+CAND-0153,Analista de Qualidade & Processos Jr,Operações & Engenharia,Indicação Interna,2026-08-13,2026-09-05,23,5,5. Contratados,Contratado
+CAND-0154,Desenvolvedor Backend Pleno,Tecnologia,Gupy / Job Boards,2026-06-26,2026-07-03,7,2,2. Triagem Curricular,Banco de Talentos
+CAND-0155,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-08-16,2026-08-18,2,1,1. Inscritos,Desistência
+CAND-0156,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-08-15,2026-08-23,8,1,1. Inscritos,Reprovado
+CAND-0157,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-09-14,2026-09-18,4,1,1. Inscritos,Reprovado
+CAND-0158,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-09-06,2026-09-11,5,1,1. Inscritos,Reprovado
+CAND-0159,Estágio em Projetos & Digital,Projetos & Digital,Portal de Carreiras,2026-07-07,2026-07-19,12,1,1. Inscritos,Reprovado
+CAND-0160,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-06-03,2026-06-12,9,1,1. Inscritos,Desistência
+CAND-0161,Analista de Qualidade & Processos Jr,Operações & Engenharia,Indicação Interna,2026-10-18,2026-10-27,9,1,1. Inscritos,Reprovado
+CAND-0162,Estágio em Projetos & Digital,Projetos & Digital,Feira Universitária,2026-08-16,2026-08-24,8,1,1. Inscritos,Reprovado
+CAND-0163,Desenvolvedor Backend Pleno,Tecnologia,Gupy / Job Boards,2026-08-17,2026-09-02,16,2,2. Triagem Curricular,Reprovado
+CAND-0164,Estágio em Dados & BI,Tecnologia,Indicação Interna,2026-07-31,2026-08-17,17,3,3. Entrevista RH,Reprovado
+CAND-0165,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-08-15,2026-09-02,18,3,3. Entrevista RH,Reprovado
+CAND-0166,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-06-13,2026-06-22,9,1,1. Inscritos,Desistência
+CAND-0167,Estágio em Talent Acquisition,Recursos Humanos,Indicação Interna,2026-08-30,2026-09-13,14,4,4. Entrevista Gestor,Reprovado
+CAND-0168,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-07-06,2026-08-01,26,3,3. Entrevista RH,Reprovado
+CAND-0169,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-09-21,2026-09-28,7,1,1. Inscritos,Reprovado
+CAND-0170,Estágio em Dados & BI,Tecnologia,Gupy / Job Boards,2026-08-15,2026-08-23,8,1,1. Inscritos,Reprovado
+CAND-0171,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-10-17,2026-11-03,17,3,3. Entrevista RH,Banco de Talentos
+CAND-0172,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-07-13,2026-08-03,21,3,3. Entrevista RH,Reprovado
+CAND-0173,Analista de Suporte de TI Jr,Tecnologia,Feira Universitária,2026-08-26,2026-09-04,9,1,1. Inscritos,Banco de Talentos
+CAND-0174,Estágio em Talent Acquisition,Recursos Humanos,Feira Universitária,2026-07-28,2026-08-09,12,1,1. Inscritos,Banco de Talentos
+CAND-0175,Estágio em Projetos & Digital,Projetos & Digital,Feira Universitária,2026-09-02,2026-09-18,16,2,2. Triagem Curricular,Reprovado
+CAND-0176,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-07-02,2026-07-14,12,1,1. Inscritos,Reprovado
+CAND-0177,Analista de Suporte de TI Jr,Tecnologia,Gupy / Job Boards,2026-09-06,2026-09-21,15,2,2. Triagem Curricular,Banco de Talentos
+CAND-0178,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-09-29,2026-10-13,14,2,2. Triagem Curricular,Reprovado
+CAND-0179,Estágio em Talent Acquisition,Recursos Humanos,Indicação Interna,2026-06-17,2026-06-26,9,1,1. Inscritos,Reprovado
+CAND-0180,Analista de Suporte de TI Jr,Tecnologia,Indicação Interna,2026-09-13,2026-09-18,5,2,2. Triagem Curricular,Reprovado
+CAND-0181,Analista de Suporte de TI Jr,Tecnologia,Feira Universitária,2026-10-05,2026-10-10,5,1,1. Inscritos,Reprovado
+CAND-0182,Estágio em Talent Acquisition,Recursos Humanos,Indicação Interna,2026-09-08,2026-09-20,12,1,1. Inscritos,Reprovado
+CAND-0183,Analista de Qualidade & Processos Jr,Operações & Engenharia,Feira Universitária,2026-10-17,2026-10-21,4,1,1. Inscritos,Reprovado
+CAND-0184,Analista de Qualidade & Processos Jr,Operações & Engenharia,Indicação Interna,2026-06-26,2026-07-13,17,2,2. Triagem Curricular,Banco de Talentos
+CAND-0185,Analista de Suporte de TI Jr,Tecnologia,Feira Universitária,2026-06-09,2026-06-19,10,2,2. Triagem Curricular,Banco de Talentos
+CAND-0186,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-09-01,2026-09-13,12,1,1. Inscritos,Reprovado
+CAND-0187,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-08-31,2026-09-06,6,1,1. Inscritos,Reprovado
+CAND-0188,Estágio em Dados & BI,Tecnologia,Indicação Interna,2026-09-25,2026-10-09,14,4,4. Entrevista Gestor,Reprovado
+CAND-0189,Estágio em Projetos & Digital,Projetos & Digital,Portal de Carreiras,2026-06-06,2026-06-13,7,1,1. Inscritos,Reprovado
+CAND-0190,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-07-23,2026-08-02,10,1,1. Inscritos,Reprovado
+CAND-0191,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-07-30,2026-08-03,4,1,1. Inscritos,Reprovado
+CAND-0192,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-06-01,2026-06-05,4,1,1. Inscritos,Reprovado
+CAND-0193,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-06-29,2026-07-07,8,4,4. Entrevista Gestor,Reprovado
+CAND-0194,Analista de Suporte de TI Jr,Tecnologia,Indicação Interna,2026-07-31,2026-08-24,24,5,5. Contratados,Contratado
+CAND-0195,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-06-14,2026-06-22,8,1,1. Inscritos,Reprovado
+CAND-0196,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-06-17,2026-07-04,17,3,3. Entrevista RH,Reprovado
+CAND-0197,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-07-27,2026-08-05,9,4,4. Entrevista Gestor,Desistência
+CAND-0198,Analista de Qualidade & Processos Jr,Operações & Engenharia,Gupy / Job Boards,2026-10-12,2026-10-24,12,1,1. Inscritos,Reprovado
+CAND-0199,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-09-11,2026-09-22,11,4,4. Entrevista Gestor,Reprovado
+CAND-0200,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-06-19,2026-06-26,7,1,1. Inscritos,Desistência
+CAND-0201,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-10-19,2026-11-15,27,5,5. Contratados,Contratado
+CAND-0202,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-10-14,2026-11-05,22,3,3. Entrevista RH,Reprovado
+CAND-0203,Estágio em Dados & BI,Tecnologia,Portal de Carreiras,2026-06-30,2026-07-12,12,1,1. Inscritos,Banco de Talentos
+CAND-0204,Estágio em Projetos & Digital,Projetos & Digital,Indicação Interna,2026-07-26,2026-08-08,13,3,3. Entrevista RH,Reprovado
+CAND-0205,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-09-11,2026-09-14,3,1,1. Inscritos,Reprovado
+CAND-0206,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-08-05,2026-08-09,4,1,1. Inscritos,Reprovado
+CAND-0207,Desenvolvedor Backend Pleno,Tecnologia,Gupy / Job Boards,2026-06-18,2026-06-24,6,2,2. Triagem Curricular,Reprovado
+CAND-0208,Estágio em Dados & BI,Tecnologia,LinkedIn,2026-09-04,2026-09-09,5,2,2. Triagem Curricular,Banco de Talentos
+CAND-0209,Estágio em Projetos & Digital,Projetos & Digital,Portal de Carreiras,2026-08-24,2026-09-01,8,1,1. Inscritos,Reprovado
+CAND-0210,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-09-17,2026-09-22,5,2,2. Triagem Curricular,Banco de Talentos
+CAND-0211,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-06-27,2026-07-31,34,5,5. Contratados,Contratado
+CAND-0212,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-10-02,2026-10-11,9,3,3. Entrevista RH,Reprovado
+CAND-0213,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-09-03,2026-09-17,14,3,3. Entrevista RH,Reprovado
+CAND-0214,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-06-07,2026-06-21,14,3,3. Entrevista RH,Reprovado
+CAND-0215,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-08-19,2026-08-26,7,1,1. Inscritos,Desistência
+CAND-0216,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-09-11,2026-09-15,4,2,2. Triagem Curricular,Reprovado
+CAND-0217,Estágio em Projetos & Digital,Projetos & Digital,Indicação Interna,2026-07-26,2026-08-13,18,5,5. Contratados,Contratado
+CAND-0218,Analista de Suporte de TI Jr,Tecnologia,Portal de Carreiras,2026-07-11,2026-07-25,14,2,2. Triagem Curricular,Reprovado
+CAND-0219,Estágio em Projetos & Digital,Projetos & Digital,Gupy / Job Boards,2026-06-22,2026-06-30,8,2,2. Triagem Curricular,Desistência
+CAND-0220,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-06-13,2026-06-19,6,1,1. Inscritos,Reprovado
+CAND-0221,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-10-03,2026-10-11,8,1,1. Inscritos,Reprovado
+CAND-0222,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-06-30,2026-07-03,3,1,1. Inscritos,Reprovado
+CAND-0223,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-10-03,2026-10-09,6,1,1. Inscritos,Reprovado
+CAND-0224,Desenvolvedor Backend Pleno,Tecnologia,LinkedIn,2026-06-15,2026-06-21,6,1,1. Inscritos,Reprovado
+CAND-0225,Estágio em Talent Acquisition,Recursos Humanos,Feira Universitária,2026-08-05,2026-08-12,7,2,2. Triagem Curricular,Reprovado
+CAND-0226,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-09-19,2026-10-05,16,2,2. Triagem Curricular,Reprovado
+CAND-0227,Estágio em Talent Acquisition,Recursos Humanos,Portal de Carreiras,2026-10-07,2026-10-19,12,1,1. Inscritos,Reprovado
+CAND-0228,Estágio em Dados & BI,Tecnologia,Gupy / Job Boards,2026-09-10,2026-09-15,5,2,2. Triagem Curricular,Banco de Talentos
+CAND-0229,Estágio em Dados & BI,Tecnologia,Portal de Carreiras,2026-08-20,2026-09-12,23,5,5. Contratados,Contratado
+CAND-0230,Desenvolvedor Backend Pleno,Tecnologia,Portal de Carreiras,2026-09-15,2026-10-03,18,3,3. Entrevista RH,Reprovado
+CAND-0231,Analista de Suporte de TI Jr,Tecnologia,LinkedIn,2026-07-14,2026-07-25,11,1,1. Inscritos,Banco de Talentos
+CAND-0232,Analista de Qualidade & Processos Jr,Operações & Engenharia,Portal de Carreiras,2026-09-01,2026-09-10,9,3,3. Entrevista RH,Reprovado
+CAND-0233,Estágio em Projetos & Digital,Projetos & Digital,LinkedIn,2026-09-11,2026-09-19,8,1,1. Inscritos,Reprovado
+CAND-0234,Analista de Qualidade & Processos Jr,Operações & Engenharia,Indicação Interna,2026-08-26,2026-08-30,4,1,1. Inscritos,Reprovado
+CAND-0235,Analista de Qualidade & Processos Jr,Operações & Engenharia,LinkedIn,2026-06-30,2026-07-05,5,1,1. Inscritos,Reprovado
+CAND-0236,Analista de Suporte de TI Jr,Tecnologia,Indicação Interna,2026-08-29,2026-09-10,12,1,1. Inscritos,Banco de Talentos
+CAND-0237,Estágio em Talent Acquisition,Recursos Humanos,Gupy / Job Boards,2026-06-27,2026-07-09,12,3,3. Entrevista RH,Reprovado
+CAND-0238,Estágio em Talent Acquisition,Recursos Humanos,LinkedIn,2026-06-20,2026-07-02,12,1,1. Inscritos,Reprovado
+CAND-0239,Estágio em Projetos & Digital,Projetos & Digital,Portal de Carreiras,2026-09-23,2026-10-04,11,1,1. Inscritos,Banco de Talentos
+CAND-0240,Estágio em Projetos & Digital,Projetos & Digital,Portal de Carreiras,2026-08-22,2026-09-17,26,3,3. Entrevista RH,Banco de Talentos

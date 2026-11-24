@@ -1,0 +1,13 @@
+CÓDIGO DO CANDIDATO: CAND_004
+CIDADE: Curitiba, PR (dados pessoais omitidos conforme boas práticas de LGPD)
+
+FORMAÇÃO ACADÊMICA
+- Bacharelado em Engenharia de Produção — Concluído em Dezembro/2022 (formado, sem vínculo ativo de graduação no momento)
+
+EXPERIÊNCIA PROFISSIONAL
+- Analista de Dados e Processos Pleno (CLT) — Empresa de Logística (2023 – Atual)
+  Desenvolvimento de painéis executivos no Power BI, pipelines em Python, fluxos automatizados no Power Automate e consultas SQL em banco corporativo. Busco oportunidade efetiva (CLT Pleno/Sênior).
+
+HABILIDADES
+- Excel avançado, Power BI avançado (DAX), SQL avançado, Python, Power Automate
+- Inglês fluente

@@ -1,0 +1,16 @@
+CÓDIGO DO CANDIDATO: CAND_001
+CIDADE: Curitiba, PR (dados pessoais omitidos conforme boas práticas de LGPD)
+
+FORMAÇÃO ACADÊMICA
+- Bacharelado em Sistemas de Informação (3º período — Turno Noturno, conclusão prevista: 2028)
+
+EXPERIÊNCIA
+- Jovem Aprendiz Administrativo — Indústria Metalúrgica (1 ano)
+  Controle e atualização de planilhas gerenciais no Excel (tabelas dinâmicas e PROCV), acompanhamento de pedidos internos, envio de relatórios semanais e apoio direto a gestores e fornecedores.
+
+HABILIDADES E PROJETOS
+- Excel intermediário/avançado (tabelas dinâmicas, PROCV, limpeza de dados)
+- Power BI básico/intermediário (criação de painel acadêmico de vendas com Power Query)
+- SQL básico/intermediário (consultas SELECT, JOIN, GROUP BY)
+- Python inicial e uso cotidiano de ferramentas de IA (Copilot e Gemini) para produtividade
+- Inglês intermediário (leitura e escrita confortáveis)
